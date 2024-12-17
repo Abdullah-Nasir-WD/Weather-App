@@ -1,0 +1,39 @@
+body{
+    background-image: url(./Assets/Weather\ image.jpg);
+    color: aliceblue;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+
+#head{
+    color: black;
+    text-align: center;
+    ;
+}
+
+.wht{
+    color: white;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding-bottom: 15px;
+}
+
+#div{
+    background-color: orange;
+    color: black;
+    text-align: center;
+    margin-left: 35%;
+    margin-right: 35%;
+    border-radius: 25px;
+    
+}
+
+.img{
+    background-color: aliceblue;
+}
